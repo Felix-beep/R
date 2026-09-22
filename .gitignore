@@ -1,0 +1,13 @@
+# R workspace files
+.RData
+.Rhistory
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Temporary files
+*.tmp
+
+# Ignore all notes.txt files
+notes.txt
